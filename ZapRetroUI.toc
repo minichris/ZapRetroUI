@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: ZapRetroUI
+## Author: Zaperox, originally Floraline
+## Notes: Trying to restore a bit of classic feeling in the UI
+## OptionalDeps:
+## Dependencies:
+## SavedVariables:
+## SavedVariablesPerCharacter:
+ZapRetroUI.lua

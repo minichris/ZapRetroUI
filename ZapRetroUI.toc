@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 90001
 ## Title: ZapRetroUI
 ## Author: Zaperox, originally Floraline
 ## Notes: Trying to restore a bit of classic feeling in the UI
